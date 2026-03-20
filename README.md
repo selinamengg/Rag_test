@@ -2,7 +2,7 @@
 
 Framework: 
 LangChain, OpenAI (GPT-4o-mini), ChromaDB, and the Ragas evaluation
-Research focus:
+/n Research focus:
 Configurations may impact the accuracy and reliability of information retrieval, so does a larger chunk size lead to better answers, and can re-ranking further improve results?
 
 Repository: Scikit-learn GitHub
